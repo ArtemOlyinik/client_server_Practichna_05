@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+*.test
+/api
+/demo
+.env
